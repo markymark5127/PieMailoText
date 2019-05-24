@@ -1,0 +1,13 @@
+silvanmelchior/RPi_Cam_Web_Interface in mind for this project
+
+Which can be installed by running these commands:
+git clone https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git  
+cd RPi_Cam_Web_Interface  
+chmod u+x *.sh  
+./install.sh 
+*sometimes motion detection doesnt start on this application I added in the line "motion -n" for it to work for me*
+
+You can add in this alert message you can point to for motion detection to send you a text message for response
+
+if you have this in your pi/home dir then add the line "/home/pi/alert.py"
+
