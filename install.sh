@@ -5,7 +5,7 @@ read -p "Enter Your Gmail eMail: "  email
 read -p "Enter Your Gmail Password: "  pass
 read -p "Enter Your Gmail App Password: "  appPass
 
-read -p "Enter Your the \"to\" cel phone number (Ex: 4105555555)"  number
+read -p "Enter Your the \"to\" cell phone number (Ex: 4105555555)"  number
 read -p "Enter Your this numbers carrier (Ex: ATT)"  carrier
 
 read -p "do you want to dd another phone number?"  cur
